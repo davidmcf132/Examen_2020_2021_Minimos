@@ -20,4 +20,5 @@ include 'head.php';
         </table>
     </form>
         </div>';
+        /
  include 'pie.php';
